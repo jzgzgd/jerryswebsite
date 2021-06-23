@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yulei&#39;s Website</title>
-    <link>https://example.com/categories/</link>
+    <link>https://jzgzgd.github.io/jerryswebsite/categories/</link>
     <description>Recent content in Categories on Yulei&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>You</copyright><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>You</copyright><atom:link href="https://jzgzgd.github.io/jerryswebsite/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
