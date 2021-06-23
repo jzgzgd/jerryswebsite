@@ -1,6 +1,6 @@
 baseURL = "https://jzgzgd.github.io/jerryswebsite/"
 languageCode = "en-us"
-title = "江雨雷的主页"
+title = "江雨雷"
 publishDir = "docs"
 theme = "cactus"
 copyright = "Yulei Jiang" # cactus will use title if copyright is not set
