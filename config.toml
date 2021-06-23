@@ -1,6 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
 title = "Yulei's Website"
+publishDir = "docs"
 theme = "cactus"
 copyright = "You" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
