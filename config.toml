@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Yulei's Website"
 publishDir = "docs"
 theme = "cactus"
-copyright = "You" # cactus will use title if copyright is not set
+copyright = "Yulei Jiang" # cactus will use title if copyright is not set
 disqusShortname = "example" # Used when comments is enabled. Cactus will use site title if not set
 # googleAnalytics = "UA-1234-5"
 
@@ -67,10 +67,10 @@ weight = 4
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/gohugoio"
+    link = "https://github.com/jzgzgd"
   [[params.social]]
     name = "linkedin"
     link = "https://www.linkedin.com/company/github/"
   [[params.social]]
-    name = "email"
-    link = "example@example.com"  # no need for "mailto:" in the head
+    name = "jzgzgd@gmail.com"
+    link = "jzgzgd@gmail.com"  # no need for "mailto:" in the head
